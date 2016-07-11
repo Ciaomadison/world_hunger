@@ -3,11 +3,14 @@
 	margin: 0 auto;
 	text-align: center;
 	font-family: arial;
-	 
-
+	
 
 }
 
+.rice {
+	margin:0 auto;
+	width:1000px;
+}
 
 a {
 	color: black;
