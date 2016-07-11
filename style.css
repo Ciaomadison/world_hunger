@@ -3,10 +3,7 @@
 	margin: 0 auto;
 	text-align: center;
 	font-family: arial;
-	 
-
-
-}
+	 }
 
 
 a {
@@ -14,9 +11,17 @@ a {
 	text-decoration: none;
 	padding-left: 10px;
 	padding-right: 10px;
-	
-}
+	}
 
 .menu {
 	text-align:center;
 }
+.aboutpics {
+	align: center;
+}
+
+.aboutcontent {
+	clear:left;
+	align: center;
+}
+
