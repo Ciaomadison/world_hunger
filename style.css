@@ -13,12 +13,21 @@
 	
 }
 
-.rice {
+.title {
 	background-image:url(images/cover_photo.jpg); 
 	background-size: cover;
-	opacity: .8;
+	opacity: .8;}
 
-	
+#nav {padding-left: 10px;
+	padding-right: 10px;
+	font-size: 20px;
+	color:white;
+	font-family: helvetica;
+	text-align:center;
+	letter-spacing: 3px;
+	background-color:grey;
+	text-decoration: none;
+
 }
 
 a {
@@ -33,14 +42,13 @@ a {
 	}
 .aboutpic {
 	margin: 10px;
-
 }
 
 .centeredimg {
 	text-align: center;
     margin-left: auto;
 	margin-right: auto;
-
+	padding-top: 20px;
 }
 
 .col1{
@@ -49,6 +57,7 @@ a {
     padding: 5%;
     width: 50%;
     float: left;}
+
  .col2{
 	box-sizing: border-box;
     text-align: justify;
