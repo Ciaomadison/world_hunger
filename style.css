@@ -1,24 +1,38 @@
 .header {
-	width: 900px;
-	margin: 0 auto;
-	text-align: center;
-	font-family: arial;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top:2%;
+	margin-top: 222px;
+	font-size: 45px;
+	color:#171b22;
+	font-family: helvetica;
+	text-align:center;
+	letter-spacing: 3px;
+	font-stretch: 100px;
+	background-color:white;
+	
 }
 
 .rice {
-	margin:0 auto;
-	width:1000px;
+	background-image:url(cover_photo.jpg); 
+	background-size: cover;
+	opacity: .8;
+
+	
 }
 
 a {
-	color: black;
+	color: #171b22;
 	text-decoration: none;
 	padding-left: 10px;
 	padding-right: 10px;
+	margin-bottom: 10px;
+	font-size: 18px;
+	text-transform: uppercase;
+	font-family: helvetica;
 	}
 
-.menu {
-	text-align:center;
+
 }
 .aboutpics {
 	align: center;
