@@ -34,12 +34,23 @@ a {
 
 
 }
-.aboutpics {
-	align: center;
+
+.centeredimg {
+	text-align: center;
+    width: 900px;
+    margin-left: auto;
+	margin-right: auto;
 }
 
-.aboutcontent {
-	clear:left;
-	align: center;
-}
-
+.col1{
+	box-sizing: border-box;
+    text-align: justify;
+    padding: 1%;
+    width: 50%;
+    float: left;}
+ .col2{
+	box-sizing: border-box;
+    text-align: justify;
+    padding: 1%;
+    width: 50%;
+    float: left;}
