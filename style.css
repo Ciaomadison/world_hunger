@@ -14,7 +14,7 @@
 }
 
 .rice {
-	background-image:url(cover_photo.jpg); 
+	background-image:url(images/cover_photo.jpg); 
 	background-size: cover;
 	opacity: .8;
 
@@ -31,26 +31,31 @@ a {
 	text-transform: uppercase;
 	font-family: helvetica;
 	}
-
+.aboutpic {
+	margin: 10px;
 
 }
 
 .centeredimg {
 	text-align: center;
-    width: 900px;
     margin-left: auto;
 	margin-right: auto;
+
 }
 
 .col1{
 	box-sizing: border-box;
     text-align: justify;
-    padding: 1%;
+    padding: 5%;
     width: 50%;
     float: left;}
  .col2{
 	box-sizing: border-box;
     text-align: justify;
-    padding: 1%;
+    padding: 5%;
     width: 50%;
     float: left;}
+
+
+
+
