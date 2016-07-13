@@ -18,8 +18,8 @@
 	background-size: cover;
 	opacity: .8;}
 
-#nav {padding-left: 10px;
-	padding-right: 10px;
+#nav {
+
 	font-size: 20px;
 	color:white;
 	font-family: helvetica;
@@ -40,31 +40,37 @@ a {
 	text-transform: uppercase;
 	font-family: helvetica;
 	}
-.aboutpic {
-	margin: 10px;
-}
 
-.centeredimg {
-	text-align: center;
-    margin-left: auto;
-	margin-right: auto;
-	padding-top: 20px;
+#aboutpic {
+	display: inline-block; 
+	width: 515px;
+	padding-top: 10px;
+	margin: 0 auto;
 }
 
 .col1{
 	box-sizing: border-box;
-    text-align: justify;
-    padding: 5%;
+	text-align: justify;
+	padding-left: 5%;
+	padding-right: 5%;
     width: 50%;
     float: left;}
 
  .col2{
 	box-sizing: border-box;
     text-align: justify;
-    padding: 5%;
+    padding-top:  5px;
+    padding-right: 5%;
     width: 50%;
     float: left;}
 
-
+body {
+	padding-right: 10px;
+	padding-left:10px;
+}
+.Story {
+	font-size: 75px;
+	margin-top: 20px;
+}
 
 
